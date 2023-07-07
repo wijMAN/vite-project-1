@@ -11,7 +11,7 @@ const Home = () => {
           <h1>TechyStar</h1>
           <p>
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit
-            impedit fuga totam magni sunt deleniti facilis.Wij
+            impedit fuga totam magni sunt deleniti facilis.Wij pull
           </p>
         </main>
       </div>
